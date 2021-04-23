@@ -2,7 +2,7 @@
 
 The compilation is straightforward, nothing additional:
 
-     gcc netmon.c -o netmon
+     gcc netmonitor.c -o netmon
 And run:
 
     ./netmon
